@@ -1,0 +1,11 @@
+.env
+.idea
+.cache.db
+__pycache__
+.ipynb_checkpoints/
+_test_projects/
+.DS_Store
+output.log
+output-react-steps.log
+logs-history/
+
